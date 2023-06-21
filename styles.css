@@ -111,3 +111,5 @@ h2 {font-size: large;
     
   .Fotos {display:flex;
   flex:wrap}
+
+  .greeting {text-align:center;}
